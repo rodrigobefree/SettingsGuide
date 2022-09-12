@@ -1,6 +1,6 @@
 Connect Infill Polygons
 ====
-When the infill consists of closed loops, these closed loops can be fused together to form one single loop. Enabling this will make small connections where polygons are adjacent.
+Quando o preenchimento consiste em loops fechados,eles podem ser fundidos para formar um único loop. Ativar este recurso fará pequenas conexões em polígonos  adjacentes.
 
 This setting is only available when the infill consists of loops that are adjacent to each other. That means that either:
 * The [infill pattern](infill_pattern.md) is set to Cross or Cross 3D.
